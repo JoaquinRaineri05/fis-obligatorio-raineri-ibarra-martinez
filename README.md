@@ -3,7 +3,7 @@
 ## Integrantes
 * Joaquin Raineri - Estudiante [328679]
 * Ramon Ibarra - Estudiante [N° Estudiante]
-* Alejo Martinez - Estudiante [N° Estudiante]
+* Alejo Martinez - Estudiante 347899
 
 ---------------------------------------------------------
 
